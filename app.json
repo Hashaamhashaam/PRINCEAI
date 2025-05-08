@@ -12,7 +12,7 @@
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Prince~scl/fi/w2axggryff3l3frg3y16i/4vHkCugw8o.json?rlkey=rewn09hhgkjwybkc8rh10ab2l&dl=0",
+      "description": "Prince~scl/fi/qzwsbcwfjwr1f3g2062ql/UE45aQd9m8.json?rlkey=4mbeby23iea3it9udo6mx4w70&dl=0",
       "required": true,
       "value": ""
     },
@@ -59,7 +59,7 @@
     "AutoReaction": {
       "description": "make it true to react on chats",
       "required": false,
-      "value": "true"
+      "value": "falsse"
     },
     "autoreactions_emojies": {
       "description": "put your favourite emojies for AutoReactions on chats or make it empty for all default emojies",
