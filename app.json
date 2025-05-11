@@ -53,7 +53,7 @@
     },
     "ANTI_LINK": {
       "description": "it will dlt links and kick user",
-      "required": false,
+      "required": true,
       "value": "true"
     },
     "AutoReaction": {
